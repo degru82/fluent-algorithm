@@ -1,7 +1,14 @@
 # fluent-algorithm
 
-This is a tutorial course, including problem sets and guided solutions, for the beginners in python programming.
+이 과정은 파이썬으로 프로그래밍을 시작하는 사람들을 위해 고안한 교육과정입니다.
 
-# desinged for whom
+# 구체적으로 누구를 위한 과정인가
 
-I am assumed that the people who will read this materials are trained in programming with different languages. I will not explain basic concepts or syntax here.
+다른 언어로 프로그래밍을 해 본 경험이 있는 프로그래머를 대상으로 합니다. 따라서 본 과정에서 프로그래밍과 관련된 기본 개념이나 파이썬 문법을 설명하지는 않을 예정입니다.
+
+# 과정 진행방식
+
+총 8주 과정을 예상하고 있고 다음과 같이 운영돌 예정입니다. (초대된 분들에 한해서)
+- 매주 월요일: 간단한 읽을거리와 주차별 문제가 제공됩니다. (Week_#)
+- 매주 수요일: 작업자는 Issue 생성하고 개별 Branch를 생성하여 구현한 뒤, 이를 바탕으로 Pull Request 합니다.
+- 매주 금요일: 간단히 관련 내용 소개하고, Merge Request에 Feedback을 달아드립니다.
